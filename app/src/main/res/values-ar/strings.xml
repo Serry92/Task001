@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task001</string>
+    <string name="error">خطأ في تحميل الاقسام</string>
+    <string name="no_subs">لا توجد فئات فرعية</string>
+</resources>
